@@ -18,7 +18,7 @@ conda env list
 
 
 ## Work Flow
-![frame](./frame.png)
+<img src="./frame.png" alt="description" width="400"/>
 
 
 ## Publication 
