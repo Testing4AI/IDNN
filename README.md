@@ -18,7 +18,7 @@ conda env list
 
 
 ## Work Flow
-<img src="./frame.png" alt="description" width="400"/>
+<img src="./frame.png" alt="description" width="600"/>
 
 
 ## Publication 
